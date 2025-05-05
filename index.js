@@ -9,7 +9,7 @@ const port = process.env.PORT || 4000;
 
 app.use(express.json());
 app.use(cors({
-  origin: ['https://e-commer-frontend.vercel.app','https://e-commer-admin-swart.vercel.app'],
+  origin: ['https://shine-cart-frontend.vercel.app','https://shine-cart-admin.vercel.app'],
 }));
 
 // Database Connection With MongoDB
