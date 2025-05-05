@@ -13,7 +13,7 @@ app.use(cors({
 }));
 
 // Database Connection With MongoDB
-mongoose.connect("mongodb+srv://greatstack:greatstack123@cluster0.4qfq1.mongodb.net/e-commerce");
+mongoose.connect("mongodb+srv://tanishkaverma43:8mamVwkc2REjuDaM@cluster0.xjzt0jn.mongodb.net/e-commerce-new");
 
 // paste your mongoDB Connection string above with password
 // password should not contain '@' special character
